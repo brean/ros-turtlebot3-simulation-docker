@@ -3,7 +3,7 @@
 
 Run gazebo simulation with turtlebot in a local docker container so you can run it if you don't have Ubuntu 20.04 installed.
 
-Take a look at  [ros-turtlebot3-navigation-docker](../ros-turtlebot3-navigation-docker) to interact with the robot.
+Take a look at  [ros-turtlebot3-navigation-docker](../../../ros-turtlebot3-navigation-docker) to interact with the robot.
 
 Don't forget to configure ROS_DOMAIN_ID (default 30) and TURTLEBOT3_MODEL (default burger)
 
